@@ -7,7 +7,7 @@ TAPOR: 3D Hand Pose Reconstruction for IoT Interaction via Low-Cost Thermal Sens
 
 ![Alt Text](figures/short_demo1(1).gif)
 
-(Full Demo: https://www.youtube.com/watch?v=ud4ukCGrwik) 
+(Full Demo: https://www.youtube.com/watch?v=XCKol-EjH7Y)
 
 
 ## Environment Setup
